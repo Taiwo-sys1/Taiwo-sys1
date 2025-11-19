@@ -12,7 +12,7 @@ My background in computer science has ignited a strong interest in cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| LINUX using Bash shell         | <a href=https://github.com/Taiwo-sys1/File-Modification-and-Permission-in-Linux/tree/main>File Modification and Permission in Linux</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -46,6 +46,6 @@ My background in computer science has ignited a strong interest in cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href=https://github.com/Taiwo-sys1/File-Modification-and-Permission-in-Linux/tree/main>File Modification and Permission in Linux</a>
 - SOC Automation Project
 - File Modification and permission with Linux
